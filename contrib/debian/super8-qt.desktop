@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Super8 Core
+Comment=Super8 P2P Cryptocurrency
+Comment[de]=Verbinde mit dem Super8 peer-to-peer Netzwerk
+Comment[fr]=Super8, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Super8, eşten eşe kriptografik sanal para birimi
+Exec=super8-qt %u
+Terminal=false
+Type=Application
+Icon=super8128
+MimeType=x-scheme-handler/super8;
+Categories=Office;Finance;

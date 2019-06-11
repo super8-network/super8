@@ -1,0 +1,11 @@
+[Protocol]
+exec=super8-qt '%u'
+protocol=super8
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
