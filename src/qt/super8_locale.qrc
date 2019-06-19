@@ -1,0 +1,21 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/super8_bg.qm</file>
+        <file alias="de">locale/super8_de.qm</file>
+        <file alias="en">locale/super8_en.qm</file>
+        <file alias="es">locale/super8_es.qm</file>
+        <file alias="fi">locale/super8_fi.qm</file>
+        <file alias="fr">locale/super8_fr.qm</file>
+        <file alias="it">locale/super8_it.qm</file>
+        <file alias="ja">locale/super8_ja.qm</file>
+        <file alias="nl">locale/super8_nl.qm</file>
+        <file alias="pl">locale/super8_pl.qm</file>
+        <file alias="pt">locale/super8_pt.qm</file>
+        <file alias="ru">locale/super8_ru.qm</file>
+        <file alias="sk">locale/super8_sk.qm</file>
+        <file alias="sv">locale/super8_sv.qm</file>
+        <file alias="vi">locale/super8_vi.qm</file>
+        <file alias="zh_CN">locale/super8_zh_CN.qm</file>
+        <file alias="zh_TW">locale/super8_zh_TW.qm</file>
+    </qresource>
+</RCC>
