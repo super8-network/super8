@@ -1,0 +1,4 @@
+qt/qt_libsuper8qt_a-qrc_super8_locale.o: qt/qrc_super8_locale.cpp \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:
